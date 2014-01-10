@@ -1,0 +1,11 @@
+# IDEs
+.idea/
+*.iml
+
+# composer
+/vendor/
+composer.lock
+
+# test files
+\[\]
+/tests/Venturocket/Tests/tests.cfg
