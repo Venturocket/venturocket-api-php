@@ -8,7 +8,6 @@
 namespace Venturocket\Api;
 
 
-use Venturocket\Api\AbstractClient;
 use Venturocket\Api\Keyword\KeywordClient;
 use Venturocket\Api\Listing\ListingClient;
 
